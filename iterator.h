@@ -1,7 +1,5 @@
-#ifndef CIRCULARBUFFER_ITERATOR_H
-#define CIRCULARBUFFER_ITERATOR_H
-
 #pragma once
+
 #include<iterator>
 #include "buffer.h"
 
@@ -135,6 +133,3 @@ public:
         }
     }
 };
-
-
-#endif
